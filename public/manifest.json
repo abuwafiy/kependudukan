@@ -1,0 +1,9 @@
+{
+  "short_name": "Kependudukan",
+  "name": "Kependudukan",
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone",
+  "start_url": "http://localhost:8000/",
+  "orientation": "portrait"
+}
